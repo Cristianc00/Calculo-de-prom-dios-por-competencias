@@ -1,0 +1,52 @@
+[
+    {
+        "nombre": "Dimensión 1: Comprensión lectora",
+        "textos": [
+            "Identifica ideas principales y secundarias en textos informativos.",
+            "Reconoce la intención comunicativa del autor en diversos géneros.",
+            "Interpreta vocabulario en contexto.",
+            "Realiza inferencias a partir del contenido leído.",
+            "Resume textos respetando su coherencia y sentido global."
+        ]
+    },
+    {
+        "nombre": "Dimensión 2: Resolución de problemas",
+        "textos": [
+            "Aplica estrategias lógicas para resolver situaciones cotidianas.",
+            "Selecciona operaciones adecuadas según el tipo de problema.",
+            "Verifica la coherencia de sus resultados.",
+            "Utiliza representaciones gráficas para analizar datos.",
+            "Justifica los procedimientos empleados en la resolución."
+        ]
+    },
+    {
+        "nombre": "Dimensión 3: Expresión escrita",
+        "textos": [
+            "Redacta textos con estructura clara y adecuada al propósito comunicativo.",
+            "Emplea conectores y recursos cohesivos correctamente.",
+            "Respeta normas ortográficas y gramaticales.",
+            "Organiza sus ideas de forma coherente y ordenada.",
+            "Revisa y mejora sus producciones escritas."
+        ]
+    },
+    {
+        "nombre": "Dimensión 4: Autonomía en el aprendizaje",
+        "textos": [
+            "Planifica sus actividades con responsabilidad.",
+            "Busca información de manera crítica y selectiva.",
+            "Reflexiona sobre sus propios avances y dificultades.",
+            "Utiliza recursos tecnológicos para aprender.",
+            "Mantiene una actitud activa ante nuevos desafíos."
+        ]
+    },
+    {
+        "nombre": "Dimensión 5: Trabajo colaborativo",
+        "textos": [
+            "Participa de forma constructiva en grupos de trabajo.",
+            "Escucha y valora las opiniones de los demás.",
+            "Cumple los acuerdos y responsabilidades asignadas.",
+            "Contribuye al logro de metas comunes.",
+            "Demuestra empatía y disposición al diálogo."
+        ]
+    }
+]

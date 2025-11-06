@@ -1,0 +1,52 @@
+[
+    {
+        "nombre": "Dimensión 1: Comprensión oral",
+        "textos": [
+            "Comprende instrucciones y mensajes orales en distintos contextos.",
+            "Identifica la idea principal en exposiciones o conversaciones.",
+            "Reconoce diferentes intenciones comunicativas.",
+            "Responde de manera pertinente a lo escuchado.",
+            "Utiliza estrategias para mejorar la comprensión auditiva."
+        ]
+    },
+    {
+        "nombre": "Dimensión 2: Expresión oral",
+        "textos": [
+            "Se expresa con claridad y coherencia en diversas situaciones.",
+            "Adapta su discurso al contexto y a los interlocutores.",
+            "Emplea recursos expresivos y entonación adecuada.",
+            "Organiza sus ideas antes de hablar en público.",
+            "Participa activamente en debates y presentaciones."
+        ]
+    },
+    {
+        "nombre": "Dimensión 3: Comprensión escrita",
+        "textos": [
+            "Interpreta distintos tipos de textos con precisión.",
+            "Identifica las relaciones entre ideas y párrafos.",
+            "Analiza el sentido implícito de las expresiones escritas.",
+            "Relaciona información de diferentes fuentes.",
+            "Utiliza estrategias de lectura crítica."
+        ]
+    },
+    {
+        "nombre": "Dimensión 4: Producción escrita",
+        "textos": [
+            "Redacta textos claros y estructurados.",
+            "Aplica normas de puntuación y ortografía.",
+            "Revisa y corrige sus producciones antes de entregarlas.",
+            "Usa lenguaje formal y adecuado al contexto.",
+            "Expresa ideas propias con coherencia y cohesión."
+        ]
+    },
+    {
+        "nombre": "Dimensión 5: Comunicación interpersonal",
+        "textos": [
+            "Escucha activamente a sus interlocutores.",
+            "Respeta turnos de palabra y normas de conversación.",
+            "Expresa desacuerdos con respeto y empatía.",
+            "Colabora para lograr una comunicación efectiva.",
+            "Promueve un clima de diálogo y respeto."
+        ]
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "nombre": "Dimensión 1: Observación y análisis",
+        "textos": [
+            "Identifica fenómenos naturales mediante la observación sistemática.",
+            "Registra datos con precisión y orden.",
+            "Compara resultados para establecer relaciones.",
+            "Utiliza instrumentos de medición de forma adecuada.",
+            "Distingue entre hechos y opiniones al analizar información."
+        ]
+    },
+    {
+        "nombre": "Dimensión 2: Formulación de hipótesis",
+        "textos": [
+            "Propone explicaciones posibles ante un fenómeno observado.",
+            "Relaciona causas y consecuencias con base científica.",
+            "Expresa hipótesis de manera clara y verificable.",
+            "Utiliza lenguaje científico apropiado.",
+            "Evalúa la pertinencia de sus hipótesis según la evidencia disponible."
+        ]
+    },
+    {
+        "nombre": "Dimensión 3: Experimentación",
+        "textos": [
+            "Diseña procedimientos simples para comprobar hipótesis.",
+            "Aplica normas de seguridad en el trabajo de laboratorio.",
+            "Registra observaciones con precisión y objetividad.",
+            "Analiza resultados obtenidos en experimentos.",
+            "Reconoce posibles errores y propone mejoras al procedimiento."
+        ]
+    },
+    {
+        "nombre": "Dimensión 4: Comunicación de resultados",
+        "textos": [
+            "Presenta conclusiones con lenguaje claro y científico.",
+            "Utiliza gráficos y tablas para representar información.",
+            "Argumenta sus ideas con base en la evidencia obtenida.",
+            "Expone resultados ante el grupo con responsabilidad.",
+            "Integra opiniones ajenas para mejorar sus conclusiones."
+        ]
+    },
+    {
+        "nombre": "Dimensión 5: Actitud científica",
+        "textos": [
+            "Demuestra curiosidad por comprender fenómenos naturales.",
+            "Mantiene una actitud crítica ante la información científica.",
+            "Respeta las normas éticas en la investigación.",
+            "Valora el trabajo en equipo para la construcción del conocimiento.",
+            "Aplica conceptos científicos en la vida cotidiana."
+        ]
+    }
+]

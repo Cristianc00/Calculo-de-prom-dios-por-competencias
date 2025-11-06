@@ -1,0 +1,10 @@
+# requirements.txt
+# Dependencias principales para ejecutar la aplicación
+
+# Tkinter se incluye con Python en la mayoría de distribuciones,
+# pero se menciona aquí para referencia.
+tkinter
+
+# Librerías estándar utilizadas
+json
+csv

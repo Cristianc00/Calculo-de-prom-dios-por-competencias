@@ -1,0 +1,52 @@
+[
+    {
+        "nombre": "Dimensión 1: Uso básico de herramientas digitales",
+        "textos": [
+            "Utiliza procesadores de texto y hojas de cálculo correctamente.",
+            "Administra archivos y carpetas con orden.",
+            "Aplica combinaciones de teclas y funciones de productividad.",
+            "Identifica y corrige errores comunes en el uso del software.",
+            "Demuestra autonomía en la resolución de problemas técnicos simples."
+        ]
+    },
+    {
+        "nombre": "Dimensión 2: Búsqueda y gestión de información",
+        "textos": [
+            "Utiliza motores de búsqueda de manera eficaz y crítica.",
+            "Evalúa la fiabilidad de las fuentes consultadas.",
+            "Organiza la información obtenida de forma coherente.",
+            "Respeta los derechos de autor y cita correctamente las fuentes.",
+            "Integra información digital para resolver tareas o proyectos."
+        ]
+    },
+    {
+        "nombre": "Dimensión 3: Creación de contenidos digitales",
+        "textos": [
+            "Diseña presentaciones con criterios estéticos y comunicativos.",
+            "Elabora materiales multimedia utilizando diversas herramientas.",
+            "Integra texto, imagen y sonido de forma coherente.",
+            "Publica y comparte contenido con propósito educativo.",
+            "Evalúa la calidad y pertinencia del material producido."
+        ]
+    },
+    {
+        "nombre": "Dimensión 4: Seguridad y ciudadanía digital",
+        "textos": [
+            "Protege su información personal en entornos digitales.",
+            "Reconoce riesgos asociados al uso de internet.",
+            "Respeta normas de convivencia y ética digital.",
+            "Promueve el uso responsable de las redes sociales.",
+            "Denuncia contenidos inapropiados o riesgosos."
+        ]
+    },
+    {
+        "nombre": "Dimensión 5: Pensamiento computacional",
+        "textos": [
+            "Descompone problemas complejos en partes más simples.",
+            "Diseña algoritmos básicos para resolver tareas.",
+            "Aplica estructuras lógicas en la programación.",
+            "Evalúa la eficiencia de sus soluciones.",
+            "Colabora en la creación de proyectos digitales."
+        ]
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "nombre": "Dimensión 1: Convivencia y respeto",
+        "textos": [
+            "Respeta normas y acuerdos de convivencia.",
+            "Reconoce la importancia del diálogo en la resolución de conflictos.",
+            "Demuestra empatía ante las diferencias individuales.",
+            "Valora la diversidad cultural y social.",
+            "Contribuye al bienestar del grupo."
+        ]
+    },
+    {
+        "nombre": "Dimensión 2: Participación ciudadana",
+        "textos": [
+            "Conoce derechos y deberes ciudadanos.",
+            "Participa activamente en actividades comunitarias.",
+            "Reflexiona sobre problemáticas sociales y su contexto.",
+            "Colabora en la toma de decisiones colectivas.",
+            "Promueve acciones solidarias y de compromiso social."
+        ]
+    },
+    {
+        "nombre": "Dimensión 3: Responsabilidad y compromiso",
+        "textos": [
+            "Cumple con sus deberes escolares y personales.",
+            "Asume consecuencias de sus decisiones.",
+            "Demuestra perseverancia en el cumplimiento de objetivos.",
+            "Actúa con honestidad y coherencia.",
+            "Contribuye positivamente al trabajo en grupo."
+        ]
+    },
+    {
+        "nombre": "Dimensión 4: Educación emocional",
+        "textos": [
+            "Reconoce y expresa adecuadamente sus emociones.",
+            "Muestra empatía ante las emociones ajenas.",
+            "Utiliza estrategias para manejar el estrés o la frustración.",
+            "Fomenta relaciones saludables y respetuosas.",
+            "Aplica la autorregulación emocional en diversas situaciones."
+        ]
+    },
+    {
+        "nombre": "Dimensión 5: Pensamiento crítico y reflexivo",
+        "textos": [
+            "Analiza información desde diferentes perspectivas.",
+            "Formula juicios fundamentados en evidencia.",
+            "Cuestiona estereotipos y prejuicios sociales.",
+            "Evalúa las consecuencias de sus acciones.",
+            "Propone soluciones creativas a problemas del entorno."
+        ]
+    }
+]
