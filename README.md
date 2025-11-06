@@ -1,30 +1,28 @@
-# 🧮 Cálculo de Promedios por Dimensiones
+# Cálculo de Promedios por Dimensiones
 
 Aplicación desarrollada en **Python con Tkinter** para facilitar la evaluación por dimensiones de competencias.  
 Permite registrar alumnos, asignar puntajes a cada dimensión, calcular promedios, guardar los resultados y exportar o importar descripciones de competencias.
 
----
+## Instrucciones de instalación y ejecución
 
-## 🚀 Instrucciones de instalación y ejecución
-
-### 📋 Requisitos previos
+### Requisitos previos
 - **Python 3.8 o superior**
 - Librerías estándar de Python (no requiere instalación adicional):
   - `tkinter`
   - `json`
   - `csv`
 
-### 💾 Instalación
+### Instalación
 1. Clonar o descargar el repositorio:
    ```bash
-   git clone https://github.com/usuario/promedios-por-dimensiones.git
+   git clone https://github.com/Cristianc00/Calculo-de-prom-dios-por-competencias
    ```
 2. Ingresar al directorio del proyecto:
    ```bash
    cd promedios-por-dimensiones
    ```
 
-### ▶️ Ejecución
+### Ejecución
 Ejecutar el archivo principal:
 ```bash
 python main.py
@@ -33,9 +31,7 @@ python main.py
 La interfaz se abrirá automáticamente.  
 Desde allí se pueden cargar, editar y exportar datos de alumnos y competencias.
 
----
-
-## 🧩 Descripción del diseño y decisiones de desarrollo
+## Descripción del diseño y decisiones de desarrollo
 
 ### Estructura general del proyecto
 - **`main.py`**  
@@ -55,12 +51,10 @@ Desde allí se pueden cargar, editar y exportar datos de alumnos y competencias.
 1. Implementación del sistema de selección de puntajes y cálculo automático de promedios.  
 2. Incorporación del guardado de datos en distintos formatos (`.txt`, `.csv`, `.json`).  
 3. Refactorización del código para separar la lógica de archivos en un módulo independiente.  
-4. Integración de un **scroll dinámico** y ajuste automático de altura en los cuadros de texto.  
-5. Diseño estético limpio, con colores suaves y tipografía legible.
+4. Integración de un **scroll** y ajuste automático de altura en los cuadros de texto.  
+5. Diseño estético limpio, con colores pastel y tipografía legible.
 
----
-
-## ⚙️ Justificación del uso de librerías elegidas
+## Justificación del uso de librerías elegidas
 
 - **Tkinter:**  
   Se eligió por ser parte de la biblioteca estándar de Python, de fácil distribución y sin dependencias externas.  
@@ -70,9 +64,7 @@ Desde allí se pueden cargar, editar y exportar datos de alumnos y competencias.
   Se emplean las librerías nativas para garantizar compatibilidad y simplicidad en la lectura/escritura de datos.  
   JSON se utiliza para guardar estructuras jerárquicas (competencias y dimensiones), mientras que CSV/TXT son formatos más simples para exportar promedios de alumnos.
 
----
-
-## 🎓 Fundamento didáctico
+## Fundamento didáctico
 
 ### Aprendizajes y desafíos
 El desarrollo de esta aplicación permitió comprender la relación entre **interfaces gráficas y estructuras de datos** en Python.  
@@ -90,23 +82,17 @@ A través de este desarrollo se fortalecieron competencias en:
 - Planificación de software educativo.
 - Evaluación por dimensiones en el contexto docente.
 
-La experiencia demostró que la programación puede ser una aliada estratégica para mejorar la organización y la transparencia en la evaluación formativa.
+La experiencia demostró que la programación puede ser de gran ayuda para mejorar la organización y la transparencia en la evaluación formativa.
 
----
-
-## 📦 Futuras mejoras
+## Futuras mejoras
 - Incorporar una base de datos local (SQLite) para gestionar historiales de alumnos.  
 - Añadir opciones de personalización de escalas de puntaje.  
 - Permitir exportación en formato PDF.  
 - Implementar un modo oscuro o tema de contraste alto para accesibilidad.
 
----
+## Autores
+Proyecto desarrollado por **Juan Rondán** y **Cristian Carro** 
+Estudiantes de Profesorado de Informática – CERP Suroeste, Colonia del Sacramento (Uruguay).
 
-## 👨‍💻 Autor
-Proyecto desarrollado por **Juan Rondán**  
-Estudiante de Profesorado de Historia e Informática – CERP Suroeste, Colonia del Sacramento (Uruguay).
-
----
-
-## 📝 Licencia
+## Licencia
 Este proyecto se distribuye bajo licencia **MIT**, permitiendo su libre uso y modificación con fines educativos.
